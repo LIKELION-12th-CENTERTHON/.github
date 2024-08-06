@@ -1,5 +1,6 @@
 # MOZEE
 > AI MZ언어 번역 서비스
+-
 이 서비스는 모바일 최적화 웹으로 제작되었습니다.
 ![표지](https://github.com/user-attachments/assets/73a8d6c5-7519-4125-a11f-7b1009aa8ced)
 ![문제 상황](https://github.com/user-attachments/assets/a8fa02f8-1d19-40fe-a8c8-ac7b093bb99e)
